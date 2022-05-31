@@ -1,1 +1,1 @@
-# parallaxExercises
+# parallaxExercises feito com vanilla
