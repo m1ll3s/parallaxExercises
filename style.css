@@ -1,0 +1,8 @@
+#carro{
+    width: 400px;
+    position: absolute;
+    margin-top: 600px;
+}
+#estrada{
+    z-index: -1;
+}
